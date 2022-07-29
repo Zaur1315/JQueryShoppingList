@@ -21,7 +21,7 @@
 
 body{
     background-image: url('../img/1647007052_13-kartinkin-net-p-supermarket-kartinki-15.jpg');
-    background-size: 100%;
+    background-size:  100%;
     font-family: 'Open Sans', sans-serif;;
 }
 
@@ -79,3 +79,9 @@ h2 span{
     float: right;
     padding-right: 10px;
 }
+
+@media screen and (max-width: 1500px){
+    body{
+       background-image: url("../img/interior-supermarket-foodstuffs-austria-editorial-image-vertical-666374ds65.jpg");
+    }
+};
